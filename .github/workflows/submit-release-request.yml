@@ -24,7 +24,7 @@ jobs:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803
         with:
           repository: 6529-Collections/6529-release-coordinator
-          ref: 5cab79f129899d4637cc32103cb167b2f77daac5
+          ref: f2ad24f1b82248a00eb258957c1f678313b15131
           persist-credentials: false
       - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38
         with:
